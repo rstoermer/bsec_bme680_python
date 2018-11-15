@@ -1,4 +1,7 @@
-# bsec_bme680_linux
+# Python script
+Starts the C script from within Python, caches the input values and publishes them via MQTT.
+
+# bsec_bme680_linux Readme
 
 Read the BME680 sensor with the BSEC library on Linux (e.g. Raspberry Pi)
 
